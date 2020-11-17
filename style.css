@@ -1,0 +1,107 @@
+
+
+.sloi2 h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: 190px;
+    margin-top: 317px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0, 
+}
+.sloi2 span{
+    background-color: #b2f2ee;
+
+}          
+.knopka {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 196px;
+    margin-top: 148px;
+    margin-left: 45%;
+    padding-left: 2em;
+    padding-right: 50px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-family: Courier;
+    display: inline-block;
+    color: rgb(99, 96, 96);
+    text-decoration: none;
+    outline: gray;
+    border-style: outset;
+    border-color: #858381 #7c7a79 #696868;
+    border-radius: 1px;
+    background: #ecedf0;
+    transition: 0.2s;
+}
+.knopka a{
+    
+}
+header{
+    background-color: #ecedf0;
+    width: 810;
+    
+
+}
+body{
+    font-family: 'Oswald', sans-serif;
+
+}
+.logo {
+    margin-top: 40px;
+    margin-left: 200px;
+
+
+
+}
+.poloski{
+    margin-left: 70%;
+
+
+}
+.stakan{
+
+    margin-left: 25%;
+}
+.about_us{
+    background-color: #f8fafa;
+    width: 810;
+}
+.about_us h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: 10px;
+    padding-top: 190px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
+}
+.about_us p{
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    color: gray;
+}
+.tex h2{
+    float: right;
+    margin-right:200px ;
+    font-size: 40px;
+    display:block;
+}
+.tex p{
+    float: right;
+    text-align: left;
+    margin-right: 300px;
+    font-size: 30px;
+    display: block;
+}

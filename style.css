@@ -15,17 +15,17 @@
     text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0, 
 }
 .sloi2 span{
-    background-color: #b2f2ee;
+   background-color : #b2f2ee;
 
 }          
 .knopka {
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
     margin-bottom: 196px;
     margin-top: 148px;
     margin-left: 45%;
     padding-left: 2em;
-    padding-right: 50px;
+    padding-right: 60px;
     padding-top: 1em;
     padding-bottom: 1em;
     font-family: Courier;
@@ -42,14 +42,9 @@
 .knopka a{
     
 }
-header{
-    background-color: #ecedf0;
-    width: 810;
-    
-
-}
 body{
     font-family: 'Oswald', sans-serif;
+    background: linear-gradient(to bottom, #ecedf0 40% , #f8fafa 60% );
 
 }
 .logo {
@@ -67,10 +62,6 @@ body{
 .stakan{
 
     margin-left: 25%;
-}
-.about_us{
-    background-color: #f8fafa;
-    width: 810;
 }
 .about_us h1{
     text-align: center;
@@ -93,15 +84,348 @@ body{
     color: gray;
 }
 .tex h2{
-    float: right;
-    margin-right:200px ;
+    margin-right: 50px ;
     font-size: 40px;
-    display:block;
 }
 .tex p{
-    float: right;
     text-align: left;
-    margin-right: 300px;
+    margin-right: 50px;
     font-size: 30px;
-    display: block;
+}
+.tex{
+}
+.why h2{
+    margin-right: 50px ;
+    font-size: 40px;
+}
+.why p{
+    text-align: left;
+    margin-right: 50px;
+    font-size: 30px;
+}
+.why{
+ 
+}
+.img{
+    margin-left: 230px;
+    margin-top: 150px;
+}
+ .tw{
+    position: relative;
+    top: -530px;
+    left: 1000px;
+    
+}
+html{
+    overflow-x:hidden;  
+}
+.about_us{
+    height: 986px;
+}
+.future h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: 10px;
+    padding-top: 190px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
+}
+.future h2{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+}
+.future{
+    height: 1116px;
+}
+.imge{
+    margin-left: 300px;
+    margin-top: 150px;
+    
+}
+.mar{
+    margin: 0 9px;
+}
+.imgt{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.our h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: 10px;
+    padding-top: 190px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
+}
+.our h2{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+}
+.tek{
+background-color: #71f5ea ;
+width: 652px;
+height: 423px;
+margin-left: 255px;
+}
+.tek h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    padding-top: 62px;
+    padding-right: 178px;
+}
+.tak{
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    font: bold 0.9em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7;
+    margin-top: 40px;
+    
+}
+.krest{
+margin-left:40px ;
+margin-top: 40px;
+}
+.tyk{
+    background-image: url(col.png);
+    float: right;
+    position: relative;
+    top: -423px;
+    left: -440px;
+    width: 474px;
+    height: 423px;
+}
+.tyk h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 26px;
+    color: rgb(250, 245, 245);
+    padding-top: 148px;
+    padding-right: 140px;
+
+}
+.pol{
+    text-align: left;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(245, 239, 239);
+    font: bold 0.88em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7; 
+    margin-top: 20px;
+}
+.pil{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    color: rgb(250, 245, 245);
+    padding-top: 45px;
+    padding-right: 210px;
+}
+.cool{
+    background-image: url(comp.png);
+    float: right;
+    position: relative;
+    top: 16px;
+    left: -460px;
+    width: 652px;
+    height: 372px;
+}
+.cool h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(252, 252, 252);
+    padding-top: 142px;
+    padding-right: 260px;
+}
+.mot{
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(241, 239, 239);
+    font: bold 0.9em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
+.know{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    color: rgb(250, 245, 245);
+    padding-top: 9px;
+    padding-right: 410px;
+}
+.psd{
+    background-image: url(stul.png);
+    width: 472px;
+    height: 369px;
+    margin-left: 150px;
+    float: right;
+    position: relative;
+    top: 18px;
+    left: 685px;
+}
+.psd h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(252, 252, 252);
+    padding-top: 142px;
+    padding-right: 153px;
+}
+.mat{
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(241, 239, 239);
+    font: bold 0.9em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
+.kn{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    color: rgb(250, 245, 245);
+    padding-top: 9px;
+    padding-right: 230px;
+}
+.psde{
+    background-image: url(butlka.png);
+    width: 472px;
+    height: 370px;
+    margin-left: 150px;
+    float: right;
+    position: relative;
+    top: 35px;
+    left: 15px;
+}
+.psde h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(252, 252, 252);
+    padding-top: 112px;
+    padding-right: 153px;
+}
+.tat{
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(241, 239, 239);
+    font: bold 0.9em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
+.kno{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    color: rgb(250, 245, 245);
+    padding-top: 12px;
+    padding-right: 230px;
+} 
+.pds{
+    background-image: url(chashki.png);
+    width: 653px;
+    height: 370px;
+    margin-left: 150px;
+    float: right;
+    position: relative;
+    top: -335px;
+    left: -440px;
+}
+.pds h1{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(252, 252, 252);
+    padding-top: 112px;
+    padding-right: 210px;
+}
+.rat{
+    text-align: left;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(241, 239, 239);
+    font: bold 0.9em Arial, sans-serif;
+    margin-left: 67px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
+.kne{
+    font: bold 2em Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 19px;
+    color: rgb(250, 245, 245);
+    padding-top: 15px;
+    padding-right: 400px;
+}
+
+.small h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: 600px;
+    padding-top: 1000px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
+}
+
+.small h2{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    margin-left: 400px;
+}
+  .chel{
+    margin-left: 180px;
+
+  }  
+  .chell{
+      margin-left: 500px;
+  }
+.chelo{
+    margin-top: -500px;
 }

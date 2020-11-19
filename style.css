@@ -182,6 +182,8 @@ background-color: #71f5ea ;
 width: 652px;
 height: 423px;
 margin-left: 255px;
+padding-top: 10px;
+padding-bottom: 10px;
 }
 .tek h1{
     font: bold 2em Arial, sans-serif;
@@ -201,6 +203,7 @@ margin-left: 255px;
     margin-left: 67px;
     line-height: 1.7;
     margin-top: 40px;
+    margin-bottom: -40px;
     
 }
 .krest{
@@ -396,8 +399,12 @@ margin-top: 40px;
     padding-top: 15px;
     padding-right: 400px;
 }
+.kmall{
+    width: 2000px;
+    height: 1000px;
+}
 
-.small h1{
+.kmall h1{
     text-align: center;
     align-items: center;
     font-size: 50px;
@@ -412,20 +419,70 @@ margin-top: 40px;
     text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
 }
 
-.small h2{
+
+.kmall h2{
     text-align: center;
-    align-items: center;
     font-size: 30px;
     color: gray;
-    margin-left: 400px;
+    
 }
   .chel{
     margin-left: 180px;
 
   }  
   .chell{
-      margin-left: 500px;
+      margin-left: 415px;
   }
+
+.negr{
+    background-image: url(negr.png) ;
+    width:369px;
+    height:443px ;
+    margin-top: -478px;
+    margin-left: 577px;
+}
 .chelo{
-    margin-top: -500px;
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+.cheli{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.chela{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.imgi{
+    margin: 0 9px;
+}
+.imgy{
+    margin: 0 9px;
+}
+.negr h1{
+
+}
+.what h1{
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    box-shadow: initial;
+    color: rgb(61, 61, 61);
+    margin-left: -200px;
+    padding-top: 110px;
+    font-family: Courier;
+    line-height: 40px;
+    font: bold 3em Arial, sans-serif;
+    color: #111111;
+    text-shadow: #0f0f0f 1px 1px 0, #141414 2px 2px 0,
+    
+}
+.what h2{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: gray;
+    margin-left: -300px;
 }

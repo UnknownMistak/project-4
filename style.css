@@ -1,6 +1,5 @@
 .sloi2 h1 {
   text-align: center;
-  align-items: center;
   font-size: 50px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -54,7 +53,6 @@ body {
 }
 .about_us h1 {
   text-align: center;
-  align-items: center;
   font-size: 50px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -68,7 +66,6 @@ body {
 }
 .about_us p {
   text-align: center;
-  align-items: center;
   font-size: 40px;
   color: gray;
 }
@@ -109,7 +106,6 @@ html {
 
 .future h1 {
   text-align: center;
-  align-items: center;
   font-size: 50px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -123,12 +119,11 @@ html {
 }
 .future h2 {
   text-align: center;
-  align-items: center;
   font-size: 30px;
   color: gray;
 }
 .imge {
-  margin-left: 500px;
+  margin-left: 400px;
   margin-top: 150px;
 }
 .mar {
@@ -136,11 +131,10 @@ html {
 }
 .imgt {
   margin-top: 20px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 .our h1 {
   text-align: center;
-  align-items: center;
   font-size: 50px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -154,7 +148,6 @@ html {
 }
 .our h2 {
   text-align: center;
-  align-items: center;
   font-size: 30px;
   color: gray;
 }
@@ -162,13 +155,12 @@ html {
   background-color: #71f5ea;
   width: 652px;
   height: 423px;
-  margin-left: 500px;
+  margin-left: 400px;
   display: inline-block;
 }
 .tek h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 25px;
   color: rgb(14, 13, 13);
   padding-top: 62px;
@@ -176,7 +168,6 @@ html {
 }
 .tak {
   text-align: left;
-  align-items: center;
   font-size: 30px;
   color: gray;
   font: bold 0.9em Arial, sans-serif;
@@ -201,7 +192,6 @@ html {
 .tyk h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 26px;
   color: rgb(250, 245, 245);
   padding-top: 148px;
@@ -209,7 +199,6 @@ html {
 }
 .pol {
   text-align: left;
-  align-items: center;
   font-size: 25px;
   color: rgb(245, 239, 239);
   font: bold 0.88em Arial, sans-serif;
@@ -220,7 +209,6 @@ html {
 .pil {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 19px;
   color: rgb(250, 245, 245);
   padding-top: 45px;
@@ -232,12 +220,11 @@ html {
   background-size: cover;
   width: 652px;
   height: 423px;
-  margin-left: 500px;
+  margin-left: 400px;
 }
 .cool h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 25px;
   color: rgb(252, 252, 252);
   padding-top: 142px;
@@ -245,7 +232,6 @@ html {
 }
 .mot {
   text-align: left;
-  align-items: center;
   font-size: 30px;
   color: rgb(241, 239, 239);
   font: bold 0.9em Arial, sans-serif;
@@ -256,7 +242,6 @@ html {
 .know {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 19px;
   color: rgb(250, 245, 245);
   padding-top: 51px;
@@ -274,7 +259,6 @@ html {
 .psd h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 25px;
   color: rgb(252, 252, 252);
   padding-top: 142px;
@@ -282,7 +266,6 @@ html {
 }
 .mat {
   text-align: left;
-  align-items: center;
   font-size: 30px;
   color: rgb(241, 239, 239);
   font: bold 0.9em Arial, sans-serif;
@@ -293,7 +276,6 @@ html {
 .kn {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 19px;
   color: rgb(250, 245, 245);
   padding-top: 51px;
@@ -303,7 +285,7 @@ html {
   background-image: url(butlka.png);
   display: inline-block;
   background-size: cover;
-  margin-left: 500px;
+  margin-left: 400px;
   height: 423px;
   width: 475px;
   margin-top: 20px;
@@ -312,7 +294,6 @@ html {
 .psde h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 25px;
   color: rgb(252, 252, 252);
   padding-top: 112px;
@@ -320,7 +301,6 @@ html {
 }
 .tat {
   text-align: left;
-  align-items: center;
   font-size: 30px;
   color: rgb(241, 239, 239);
   font: bold 0.9em Arial, sans-serif;
@@ -331,7 +311,6 @@ html {
 .kno {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 19px;
   color: rgb(250, 245, 245);
   padding-top: 51px;
@@ -350,7 +329,6 @@ html {
 .pds h1 {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 25px;
   color: rgb(252, 252, 252);
   padding-top: 112px;
@@ -358,7 +336,6 @@ html {
 }
 .rat {
   text-align: left;
-  align-items: center;
   font-size: 30px;
   color: rgb(241, 239, 239);
   font: bold 0.9em Arial, sans-serif;
@@ -369,7 +346,6 @@ html {
 .kne {
   font: bold 2em Arial, sans-serif;
   text-align: center;
-  align-items: center;
   font-size: 19px;
   color: rgb(250, 245, 245);
   padding-top: 51px;
@@ -382,7 +358,6 @@ html {
 
 .kmall h1 {
   text-align: center;
-  align-items: center;
   font-size: 50px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -400,10 +375,10 @@ html {
   color: gray;
 }
 .imgi{
-    margin-left: 500px;
+    margin-left: 400px;
 }
 .imagy{
-    margin-left: 500px;
+    margin-left: 400px;
 }
 
 .what h1 {
@@ -422,7 +397,6 @@ html {
 }
 .what h2 {
   text-align: center;
-  align-items: center;
   font-size: 30px;
   color: gray;
 }
@@ -444,7 +418,6 @@ html {
 }
 .phon h4{
     text-align: center;
-  align-items: center;
   font-size: 20px;
   box-shadow: initial;
   color: rgb(61, 61, 61);
@@ -467,12 +440,73 @@ html {
     margin-top: 10px;
     margin-left: 270px;
 }
-.str{
-    margin-top:0px;
-    margin-left: 710px;
-    position: relative;
-    top: -180px;
-}
+
 .arrow{
     display: inline-block;
+    align-items: center;
+}
+.rko{
+    margin-left: 600px;
+}
+.sport{
+    margin-left: 300px;
+}
+.icons{
+  background: white;
+  padding-left: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.strelka{
+  margin-left: 1440px;
+  margin-top: -190px;
+  margin-bottom: 100px;
+}
+
+footer{
+  /* background-image: url(elk.png) ; */
+  width: 1000px;
+  height: 670px;
+
+ 
+}
+.form22 form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  height: 42px;
+}
+.form{
+  background-color: #40525f;
+  background:rgba(64, 82, 95, 0.9)
+}
+.form22 input {
+height: 42px;
+width: 0;
+padding: 0 42px 0 15px;
+border: none;
+border-bottom: 2px solid transparent;
+outline: none;
+background: transparent;
+transition: .4s cubic-bezier(0, 0.8, 0, 1);
+top: 0;
+right: 0;
+width: 300px;
+z-index: 1;
+border-bottom: 2px solid #292F33;
+display: block;
+margin-left: 300px;
+color: white;
+}
+.form22 button {
+  color: #121313;
+  background-color: #6eeee4;
+  width: 245px;
+  height: 52px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+.mess{
+  margin-top: 50px;
 }
